@@ -150,7 +150,7 @@ label[for="drop-nav"] {
 /* Portfolio*/
 
 .portfolio {
-    background-color: #f2fled; 
+    background-color: #f2f1ed; 
 }
 
 .portfolio-wrapper {
@@ -185,7 +185,7 @@ label[for="drop-nav"] {
     font-weight: 300;
     font-size: 3em;
     opacity: 0;
-    transition: all 0.3;
+    transition: all 0.3s;
 }
 
 .portfolio-wrapper .portfolio-item h3:hover {
@@ -238,7 +238,7 @@ label[for="drop-nav"] {
 /* footer */
 
 .main-footer {
-    background-color: #f2fled;
+    background-color: #f2f1ed;
     padding: 30px;
     text-align: center;
     color: #777;
